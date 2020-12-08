@@ -1,0 +1,10 @@
+.Order {
+    width: 80%;
+    padding: 10px;
+    margin: 10px auto;
+    background-color: black;
+    transition: all 0.4s ease-out;
+    box-shadow: 0px 35px 77px -17px rgba(0,0,0,0.44);
+    color: whitesmoke;
+    box-sizing: border-box;
+}

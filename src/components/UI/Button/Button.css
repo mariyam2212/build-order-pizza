@@ -1,0 +1,21 @@
+.buttonCheckout{
+      width: 65% !important;
+      border: 2px solid white !important;
+      margin: 20px !important;
+      padding: 8px;
+  }
+  .buttonCls{
+    margin: 0px 10px;
+    font-size: 20px;
+    width: 10%;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+@media (max-width : 700px){
+  .buttonCheckout{
+    width: 55% !important;
+    margin:20px 0px !important;
+  }
+}
